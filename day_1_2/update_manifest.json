@@ -2,6 +2,7 @@
    "versions": [
       {
          "version": "8.15.0.5276",
+         
          "src": "https://artifactory.air-watch.com/ui/api/v1/download/contentBrowsing/github-publish-local/euc-vdi/horizon-client-html5/viewclientiwa/2058/build-viewclientiwa/1/Omnissa-Horizon-Chromebook-8.15.0-14614834556.swbn"
       }
    ]
