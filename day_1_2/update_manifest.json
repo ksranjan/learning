@@ -3,19 +3,6 @@
       {
          "version": "8.15.0.5276",
          "src": "https://artifactory.air-watch.com/ui/api/v1/download/contentBrowsing/github-publish-local/euc-vdi/horizon-client-html5/viewclientiwa/2058/build-viewclientiwa/1/Omnissa-Horizon-Chromebook-8.15.0-14614834556.swbn"
-      },
-      {
-         "version": "8.15.0.59124",
-         "src": "https://artifactory.air-watch.com/ui/api/v1/download/contentBrowsing/github-publish-local/euc-vdi/horizon-client-html5/viewclientiwa/2063/build-viewclientiwa/1/Omnissa-Horizon-Chromebook-8.15.0-14637956724.swbn"
-      },
-      {
-         "version": "8.15.0.64907",
-         "src": "https://artifactory.air-watch.com/ui/api/v1/download/contentBrowsing/github-publish-local/euc-vdi/horizon-client-html5/viewclientiwa/2064/build-viewclientiwa/1/Omnissa-Horizon-Chromebook-8.15.0-14639994092.swbn"
-      },
-      {
-         "version": "8.15.1.19694",
-         "src": "https://artifactory.air-watch.com/ui/api/v1/download/contentBrowsing/github-publish-local/euc-vdi/horizon-client-html5/viewclientiwa/2065/build-viewclientiwa/1/Omnissa-Horizon-Chromebook-8.15.1-14640211019.swbn"
       }
-      
    ]
 }
